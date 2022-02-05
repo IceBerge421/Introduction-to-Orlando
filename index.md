@@ -62,7 +62,7 @@
 
 <!-- /TOC -->
 
-# What is UCF like? 
+# What is UCF like?
 
 English Department faculty work on UCF’s main campus, which houses the vast majority of our academic programs and hosts most of our ~70,000 students (~60,000 undergraduates and ~10,000 graduate and medical students). UCF’s home page is [here](https://www.ucf.edu/); more information on student demographics, overall structure, and budget are [here](https://www.ucf.edu/about-ucf/facts/).
 
